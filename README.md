@@ -31,23 +31,7 @@ The dataset contains the following types of features:
 
 ---
 
-## ⚙️ Workflow
 
-```mermaid
-flowchart TD
-    A[Start] --> B[Load Employee Dataset]
-    B --> C[Data Cleaning & Preprocessing]
-    C --> D[Feature Engineering]
-    D --> E[Train Multiple ML Models]
-    E --> F[Model Evaluation & Comparison]
-    F --> G[Select LightGBM Classifier as Best Model]
-    G --> H[Train LightGBM on Full Training Data]
-    H --> I[Predict Employee Attrition]
-    I --> J[Generate Reports & Insights]
-    J --> K[End]
-````
-
----
 
 ## 📊 Models Tested
 
