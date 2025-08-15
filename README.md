@@ -26,10 +26,7 @@ The dataset contains the following types of features:
 - **Satisfaction Scores**: Job Satisfaction, Environment Satisfaction
 - **Performance Metrics**: Performance Rating, Work-Life Balance
 
-> **Dataset Reference**:  
-> IBM HR Analytics Employee Attrition Dataset – [Kaggle Link](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
----
 
 
 
